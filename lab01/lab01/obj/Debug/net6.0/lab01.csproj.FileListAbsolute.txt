@@ -1,0 +1,14 @@
+D:\лабораторные работы\ооп\lab01\lab01\obj\Debug\net6.0\lab01.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабораторные работы\ооп\lab01\lab01\obj\Debug\net6.0\lab01.AssemblyInfoInputs.cache
+D:\лабораторные работы\ооп\lab01\lab01\obj\Debug\net6.0\lab01.AssemblyInfo.cs
+D:\лабораторные работы\ооп\lab01\lab01\obj\Debug\net6.0\lab01.csproj.CoreCompileInputs.cache
+D:\лабораторные работы\ооп\lab01\lab01\bin\Debug\net6.0\lab01.exe
+D:\лабораторные работы\ооп\lab01\lab01\bin\Debug\net6.0\lab01.deps.json
+D:\лабораторные работы\ооп\lab01\lab01\bin\Debug\net6.0\lab01.runtimeconfig.json
+D:\лабораторные работы\ооп\lab01\lab01\bin\Debug\net6.0\lab01.dll
+D:\лабораторные работы\ооп\lab01\lab01\bin\Debug\net6.0\lab01.pdb
+D:\лабораторные работы\ооп\lab01\lab01\obj\Debug\net6.0\lab01.dll
+D:\лабораторные работы\ооп\lab01\lab01\obj\Debug\net6.0\refint\lab01.dll
+D:\лабораторные работы\ооп\lab01\lab01\obj\Debug\net6.0\lab01.pdb
+D:\лабораторные работы\ооп\lab01\lab01\obj\Debug\net6.0\lab01.genruntimeconfig.cache
+D:\лабораторные работы\ооп\lab01\lab01\obj\Debug\net6.0\ref\lab01.dll
