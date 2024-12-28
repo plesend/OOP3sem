@@ -1,0 +1,74 @@
+﻿[
+  {
+    "Action": "GetFoldersAndFiles",
+    "FileName": "D:\\лабораторные\\ооп\\lab12\\stillDontKnow.txt",
+    "LoFilePath": "D:\\лабораторные\\ооп\\lab12\\makeFoldersHere\\new dir\\dirinfo.txt",
+    "Date": "2024-12-21T02:13:57.3819158+03:00"
+  },
+  {
+    "Action": "TaskB",
+    "FileName": "ZESFiles",
+    "LoFilePath": "D:\\лабораторные\\ооп\\lab12\\makeFoldersHere\\ZESFiles",
+    "Date": "2024-12-21T02:13:57.4392613+03:00"
+  },
+  {
+    "Action": "GetFoldersAndFiles",
+    "FileName": "D:\\лабораторные\\ооп\\lab12\\stillDontKnow.txt",
+    "LoFilePath": "D:\\лабораторные\\ооп\\lab12\\makeFoldersHere\\new dir\\dirinfo.txt",
+    "Date": "2024-12-21T02:14:36.1897221+03:00"
+  },
+  {
+    "Action": "TaskB",
+    "FileName": "ZESFiles",
+    "LoFilePath": "D:\\лабораторные\\ооп\\lab12\\makeFoldersHere\\ZESFiles",
+    "Date": "2024-12-21T02:14:36.2238045+03:00"
+  },
+  {
+    "Action": "GetFoldersAndFiles",
+    "FileName": "D:\\лабораторные\\ооп\\lab12\\stillDontKnow.txt",
+    "LoFilePath": "D:\\лабораторные\\ооп\\lab12\\makeFoldersHere\\new dir\\dirinfo.txt",
+    "Date": "2024-12-21T02:16:05.9887828+03:00"
+  },
+  {
+    "Action": "TaskB",
+    "FileName": "ZESFiles",
+    "LoFilePath": "D:\\лабораторные\\ооп\\lab12\\makeFoldersHere\\ZESFiles",
+    "Date": "2024-12-21T02:16:06.0217497+03:00"
+  },
+  {
+    "Action": "GetFoldersAndFiles",
+    "FileName": "D:\\лабораторные\\ооп\\lab12\\stillDontKnow.txt",
+    "LoFilePath": "D:\\лабораторные\\ооп\\lab12\\makeFoldersHere\\new dir\\dirinfo.txt",
+    "Date": "2024-12-21T09:56:20.9003272+03:00"
+  },
+  {
+    "Action": "TaskB",
+    "FileName": "ZESFiles",
+    "LoFilePath": "D:\\лабораторные\\ооп\\lab12\\makeFoldersHere\\ZESFiles",
+    "Date": "2024-12-21T09:56:20.9409791+03:00"
+  },
+  {
+    "Action": "GetFoldersAndFiles",
+    "FileName": "D:\\лабораторные\\ооп\\lab12\\stillDontKnow.txt",
+    "LoFilePath": "D:\\лабораторные\\ооп\\lab12\\makeFoldersHere\\new dir\\dirinfo.txt",
+    "Date": "2024-12-21T09:59:56.0007582+03:00"
+  },
+  {
+    "Action": "TaskB",
+    "FileName": "ZESFiles",
+    "LoFilePath": "D:\\лабораторные\\ооп\\lab12\\makeFoldersHere\\ZESFiles",
+    "Date": "2024-12-21T09:59:56.038438+03:00"
+  },
+  {
+    "Action": "TaskC",
+    "FileName": "test.zip",
+    "LoFilePath": "D:\\лабораторные\\ооп\\lab12\\ConsoleApp1\\archive",
+    "Date": "2024-12-21T10:00:49.8529551+03:00"
+  },
+  {
+    "Action": "GetFoldersAndFiles",
+    "FileName": "D:\\лабораторные\\ооп\\lab12\\stillDontKnow.txt",
+    "LoFilePath": "D:\\лабораторные\\ооп\\lab12\\makeFoldersHere\\new dir\\dirinfo.txt",
+    "Date": "2024-12-21T10:00:49.8862275+03:00"
+  }
+]
